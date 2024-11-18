@@ -13,6 +13,15 @@ Orderbook Imbalance Indicator: A metric to measure the imbalance between buy and
 Market Depth Chart: A live snapshot of the market depth.
 
 Responsive Design: The application works seamlessly across devices.
+
+
+
+
+![Screenshot 2024-11-18 195423](https://github.com/user-attachments/assets/be802b53-8b18-4290-aad9-aa7615774eae)
+
+
+
+
 ## Tech Stack
 
 1.Next.js: Framework for server-side rendering and React-based applications.
